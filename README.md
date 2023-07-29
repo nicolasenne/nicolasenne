@@ -1,6 +1,7 @@
-# [![nicolas enne header](https://raw.githubusercontent.com/nicolasenne/nicolasenne/main/images/main-banner.png)](https://nicolasenne.co)
+[![nicolas enne header](https://raw.githubusercontent.com/nicolasenne/nicolasenne/main/images/main-banner.png)](https://nicolasenne.co)
 
- **💻 Front-end Developer** | **🎨 Designer** | **🎓 Teacher at [@Le Wagon](https://www.lewagon.com/)**
+### 🧙🏻‍♂️ About Me
+**Front-end Developer • Designer • Teacher at [Le Wagon](https://www.lewagon.com/)**
 
 > I'm a highly creative and committed professional who's capable of thinking both visually & analytically and who can establish brand identities, create visual designs and make responsive websites.
 >
@@ -8,19 +9,26 @@
 
 ##
 
-### Development Skills
+### 📓 My Skills
 
-![image](https://img.shields.io/badge/HTML5-4B21CD?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-551ED5?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-6D15D7?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/Sass-8706D8?style=for-the-badge&logo=sass&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-A000DA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Ruby-9D14D3?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-white.svg?style=for-the-badge&logo=SASS&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/ruby-white.svg?style=for-the-badge&logo=ruby&logoColor=black)
+![Rails](https://img.shields.io/badge/rails-white.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=black)
+![Git](https://img.shields.io/badge/git-white.svg?style=for-the-badge&logo=git&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-white.svg?style=for-the-badge&logo=figma&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-white.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-white.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-white?style=for-the-badge&logo=adobeindesign&logoColor=black)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-white.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black)
+
 
 ##
 
-### Social Media (without the skills)
+### Social Media
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/nicolasenne)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/nicolasenne)
