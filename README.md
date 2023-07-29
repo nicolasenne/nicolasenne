@@ -30,5 +30,5 @@
 
 ### Social Media
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasenne)
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/nicolasenne)
